@@ -1,0 +1,17 @@
+# ninja log v5
+2	665	6701801844430490	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+666	795	6701801845700780	matrizBidimensional.exe	de44f78d02fb5f80
+2	522	6701802151586235	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+522	642	6701802152771706	matrizBidimensional.exe	de44f78d02fb5f80
+2	525	6701803105153510	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+526	668	6701803106573831	matrizBidimensional.exe	de44f78d02fb5f80
+3	522	6701808093552158	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+522	647	6701808094822457	matrizBidimensional.exe	de44f78d02fb5f80
+2	517	6701808568033142	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+517	638	6701808569243427	matrizBidimensional.exe	de44f78d02fb5f80
+3	513	6701809008487404	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+514	634	6701809009707710	matrizBidimensional.exe	de44f78d02fb5f80
+2	525	6701810481229553	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+526	648	6701810482439831	matrizBidimensional.exe	de44f78d02fb5f80
+3	1157	6728849296320562	CMakeFiles/matrizBidimensional.dir/main.c.obj	b9bb2c2e91e751ef
+1158	1401	6728849298722298	matrizBidimensional.exe	de44f78d02fb5f80
